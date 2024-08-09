@@ -3,7 +3,7 @@
 <h2>Features</h2>
 <ul>
     <li>human_figure.py: using opencv to draw circles and lines from the corresponding keypoints</li>
-    <li>pytorch_binary_classification.ipynb: model training using pytorch, goal higher accuracy when the model predict if the keypoints are a human or not</li>
+    <li>pytorch_binary_classification.ipynb: model training using pytorch, the model predict if the keypoints makes a human figure or not</li>
 </ul>
 
 <h2>Acknowledgments</h2>
