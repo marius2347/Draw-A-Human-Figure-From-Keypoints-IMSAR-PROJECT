@@ -24,7 +24,7 @@ keypoints = {
 # creating a blank image, tensor (x, y, channel)
 image = np.zeros((600, 600, 3), dtype = "uint8")
 
-# # draw keypoints as small circlers
+# draw keypoints as small circlers
 for key, point in keypoints.items():
     cv2.circle(image, point, 4, (0, 0, 255), -1) # red color circle
 
