@@ -1,4 +1,4 @@
-<h1>Draw A Human Figure From Keypoints using openCV in Python at IMSAR</h1>
+<h1>Draw A Human Figure From Keypoints using openCV and Pytorch in Python at IMSAR</h1>
 <br>
 <h2>Features</h2>
 <ul>
