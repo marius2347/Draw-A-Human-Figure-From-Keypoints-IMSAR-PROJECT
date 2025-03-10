@@ -6,11 +6,7 @@
     <li>pytorch_binary_classification.ipynb: model training using pytorch, the model predict if the keypoints makes a human figure or not</li>
 </ul>
 
-<h2>Acknowledgments</h2>
 
-<b> Python3: http://bit.ly/python3-certifications </b>
-<br>
-<b> Machine Learning: https://bit.ly/machine-learning-certification <b>
 <br>
 
 
